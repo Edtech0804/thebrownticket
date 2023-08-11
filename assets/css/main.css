@@ -2260,3 +2260,24 @@ section.copyright .right-info ul li span {
 .contact_h1{
   color: #fff;
 }
+
+
+
+
+
+
+
+
+.img-logo{
+  width: 100px;
+  height: 60px;
+}
+
+@media (max-width: 767px) {
+
+  .img-logo{
+    width: 50px;
+    height: 30px;
+  }
+
+}
